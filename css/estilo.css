@@ -1,0 +1,74 @@
+.inicio{
+        border: 6px solid rgb(214, 133, 57);
+        background-color: rgba(241, 115, 31, 0.5);
+        border-radius: 20px;
+        max-width: 800px;
+        margin:0 auto;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    }
+    
+
+p {
+    text-align: center;
+    margin: 1px 10; 
+}
+
+.images {
+    width: calc(105% - 105px); 
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 2px; 
+    box-sizing: border-box;
+    max-width: 8000px;
+    margin: 0 auto;
+}
+.benefi {
+    width: calc(40% - 40px); 
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 2px; 
+    box-sizing: border-box;
+}
+p {
+    width: calc(100% - 100px); 
+    border: 2px solid rgb(248, 243, 243);
+    border-radius: 2px;
+    padding: 2px; 
+    box-sizing: border-box;
+}
+h1 {
+ color: #be6428;
+}
+h2 {
+    color: #b3570c;
+}
+h3 {
+    color: #884519;
+}
+.ubi{
+    width: calc(40% - 40px); 
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 2px; 
+    box-sizing: border-box;
+}
+.ubi2{
+    background-color: rgba(224, 157, 112, 0.5); 
+    padding: 10px; 
+}
+.banner {
+    border: 20px solid rgb(231, 174, 108);
+    border-radius: 20px;
+}
+.texto {
+    background-color: rgba(224, 157, 112, 0.5); 
+    padding: 10px; 
+}
+.final {
+    border: 6px solid rgb(231, 126, 28);
+    background-color: rgba(241, 115, 31, 0.5);
+    border-radius: 20px;
+    padding: 8px;
+    max-width: 8000px;
+    margin: 0 auto;
+}
